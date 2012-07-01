@@ -1,8 +1,4 @@
-;;;
-;;; stream.scm - SICPの問題演習
-;;;
-;;;   Author: Ryota Wada
-;;;     Date: 2012-06-23T05:04:24+09:00.
+;;;     Date: 2012-07-01T19:41:25+09:00.
 ;;;
 
 (define-macro (my-delay exp)
